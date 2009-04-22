@@ -99,7 +99,7 @@ alias gvi="gvim --remote-tab-silent"
 alias sb="source ~/.bashrc"
 alias vb="vi ~/.bashrc"
 alias home="cd /cygdrive/c/home"
-alias to-test="cd /cygdrive/c/home/test"
+alias totest="cd /cygdrive/c/home/test"
 
 # Set Emacs
 PATH=$PATH:/opt/editors/emacs23/bin
