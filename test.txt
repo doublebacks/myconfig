@@ -1,2 +1,4 @@
-add this file
-add this file
+This is a test file to try Git commands.
+I try fetch/merge/pull commands.
+I try other commands.
+Try branch
