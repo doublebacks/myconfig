@@ -10,6 +10,9 @@
   ;; use extended compound-text coding for X clipboard
   ;;(set-selection-coding-system 'compound-text-with-extensions))
 
+;; set default coding
+(setq default-buffer-file-coding-system 'utf-8)
+
 (setq emacs-file-path "~/.emacs_file/")
 (setq load-path (cons (concat emacs-file-path "my-site-lisp") load-path))
 
