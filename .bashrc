@@ -118,4 +118,4 @@ alias pysh='ipython -p pysh'
 
 # Set screen (compiled with --enable-colors256)
 export PATH=/opt/screen/bin:$PATH
-
+export GIT_SSL_NO_VERIFY=true
